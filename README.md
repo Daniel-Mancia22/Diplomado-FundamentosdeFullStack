@@ -3,4 +3,4 @@ Este repositorio estoy documentando mi aprendizaje y prácticas durante el Diplo
 
 ## **Curso I** - Adminitrador de Servidores 🖥️
 
-## **Curso II** - 🖥️
+## **Curso II**
